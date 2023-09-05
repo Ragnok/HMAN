@@ -1,5 +1,5 @@
 //Programming in C
-//MSG Mike Simpson
+//Mike Simpson
 //
 //Hangman game accepts and displays special characters in wordfile
 //accepts upper and lower case guesses from user, displays in uppercase.
